@@ -1,8 +1,29 @@
-# React + Vite
+Vite React Redux App
+Description
+This project is a React Redux application built with Vite.js, a next-generation frontend tooling system. It utilizes Redux Toolkit for state management.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Installation
+To install and set up the project locally, follow these steps:
 
-Currently, two official plugins are available:
+Clone the repository: git clone <repository-url>
+Navigate into the project directory: cd vite-project
+Install dependencies: npm install
+Dependencies
+@reduxjs/toolkit: ^2.2.1
+eslint: ^8.57.0
+prettier: ^3.2.5
+Configuration
+ESLint is configured to enforce code quality and style rules.
+Prettier is configured for code formatting consistency.
+Usage
+To start the development server, run:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+npm run dev
+To build the project for production, run:
+
+
+npm run build
+License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
