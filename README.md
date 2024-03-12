@@ -25,7 +25,8 @@ To install and set up the project locally, follow these steps:
 
 ## Usage
 
-- To start the development server
-- run:
+To start the development server
+run:
+
 - npm install
 - npm run dev
