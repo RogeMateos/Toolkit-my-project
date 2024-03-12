@@ -8,7 +8,7 @@ This project is a React Redux application built with Vite.js, a next-generation 
 
 To install and set up the project locally, follow these steps:
 
-1. Clone the repository: `git clone <repository-url>`
+1. Clone the repository: `git clone <https://github.com/RogeMateos/Toolkit-my-project.git>`
 2. Navigate into the project directory: `cd vite-project`
 3. Install dependencies: `npm install`
 
